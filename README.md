@@ -1,4 +1,5 @@
 # portfolio
+<<<<<<< HEAD
 ## This is a personal portfolio website for Abdallah Awwad. The website showcases my projects, skills, and contact information. It is built using HTML, CSS, and Boxicons for icons.
 - [Technologies Used](#technologies-used)
 - [Sections](#sections)
@@ -40,3 +41,6 @@ The footer contains a copyright notice and a link to scroll back to the top of t
 ## Responsive Design
 
 The website is designed to be fully responsive. Media queries are used to adjust the layout and font sizes for different screen sizes, ensuring the website is easy to navigate on both mobile and desktop devices.
+=======
+#https://alsrahenaboo.github.io/portfolio/
+>>>>>>> 97bb6caab0be10ba5a9b7990315839136490d197
